@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "102404992878",
+    "firebase_url": "https://barshop-2b7df.firebaseio.com",
+    "project_id": "barshop-2b7df",
+    "storage_bucket": "barshop-2b7df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102404992878:android:d41733be5759931e911b7f",
+        "android_client_info": {
+          "package_name": "mobiele.flutters_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102404992878-qmia7rh2mi0i839isfv76cdmle3llmu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVVtBLh8PwXVidsIR7MRxceDGA5jRt-4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102404992878-qmia7rh2mi0i839isfv76cdmle3llmu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+enum Roles{
+  Customer,
+  Admin
+}

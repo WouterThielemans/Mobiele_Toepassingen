@@ -1,0 +1,10 @@
+core features: 
+- login systeem
+- lijst producten
+- winkelmand
+
+extra features:
+- scannen van producten (barcode & QR)
+- flashlight aanzetten in scan
+- weer van huidige locatie bekijken
+- email opstellen met data van het winkelmandje
